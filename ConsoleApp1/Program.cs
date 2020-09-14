@@ -12,8 +12,10 @@ namespace ConsoleApp1
         {
             string a = "傻屌";
             string c = "帅帅";
-            string d = "说得好";
+            string d = "说得好1";
+
             Console.WriteLine(a + c + d);
+
             Console.ReadKey();
         }
     }
