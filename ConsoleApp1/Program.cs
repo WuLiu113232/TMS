@@ -11,8 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string a = "傻屌";
-            string b = "张三";
-            Console.WriteLine(a+b);
+            Console.WriteLine(a);
             Console.ReadKey();
         }
     }
